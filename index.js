@@ -1,1 +1,7 @@
-parseInt('2', 10)
+function makeInt(n) {
+parseInt(n)
+}
+
+function preserveDecimal(n) {
+  parseFloat(n)
+}
