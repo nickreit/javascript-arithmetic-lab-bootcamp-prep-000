@@ -1,5 +1,17 @@
-function add(a, b) {
-  a + b
+function add() {
+  +
+}
+
+function subtract() {
+
+}
+
+function multiply() {
+
+}
+
+function divide() {
+
 }
 
 function makeInt(n) {
