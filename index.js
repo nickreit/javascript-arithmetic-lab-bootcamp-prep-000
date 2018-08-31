@@ -29,3 +29,7 @@ function inc(n) {
 function dec(n) {
   return n - 1
 }
+
+makeInt(n) {
+  return parseInt(n)
+}
