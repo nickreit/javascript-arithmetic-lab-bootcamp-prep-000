@@ -21,3 +21,7 @@ parseInt(n)
 function preserveDecimal(n) {
   parseFloat(n)
 }
+
+function inc(n) {
+returns n++
+}
