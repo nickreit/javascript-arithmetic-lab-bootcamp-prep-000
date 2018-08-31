@@ -23,5 +23,5 @@ function preserveDecimal(n) {
 }
 
 function inc(n) {
-returns n++
+returns n+=
 }
