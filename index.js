@@ -1,5 +1,5 @@
-function add() {
-
+function add(x, y) {
+x + y
 }
 
 function subtract() {
