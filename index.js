@@ -11,7 +11,7 @@ return a * b
 }
 
 function divide() {
-
+return a / b
 }
 
 function makeInt(n) {
