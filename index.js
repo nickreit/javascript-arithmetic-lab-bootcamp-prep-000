@@ -7,7 +7,7 @@ return a - b
 }
 
 function multiply() {
-
+return a * b
 }
 
 function divide() {
